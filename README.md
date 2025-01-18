@@ -16,6 +16,7 @@
 ## 📅 프로젝트 플랜
 ### 이미지
 [프로젝트 플랜]
+https://github.com/nemanic3/Function_Specification/blob/master/readme%20%EB%85%B8%EC%85%98%20%ED%94%8C%EB%9E%9C.png
 
 ---
 
