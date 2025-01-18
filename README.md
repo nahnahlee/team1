@@ -21,7 +21,7 @@
 
 ## 🛠️ 기술 스택
 - **Frontend**: React.js
-- **Backend**: Django + Django Rest Framework
+- **Backend**: <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 - **Design**: Figma
 
 ---
