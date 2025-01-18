@@ -7,7 +7,7 @@
 ---
 
 ## 🔗 기능 명세서
-[기능 명세서 보러가기](https://github.com/nemanic3/Function-Specification)
+[기능 명세서 보러가기](https://github.com/nemanic3/Function_Specification.git)
 
 
 
