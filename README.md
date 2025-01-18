@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
 ### Design
-Figma
+<img src="https://img.shields.io/badge/html5-F24E1E?style=for-the-badge&logo=html5&logoColor=white">
 
 ---
 
